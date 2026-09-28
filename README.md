@@ -18,4 +18,4 @@ A simple and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScrip
 
 ## Live Demo
 
-[Play the Game](YOUR-NETLIFY-LINK-HERE)
+[Play the Game](https://tic-tac-toe-4483.netlify.app/)
